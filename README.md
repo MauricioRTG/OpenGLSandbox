@@ -1,6 +1,6 @@
 
 # OpenGL Sandbox
-OpenGL Sandbox is an application I use to learn the OpenGL API. The purpose of this application is to be a base for a game engine and to test rendering techniques.
+OpenGL Sandbox is an application I created and I am using to learn the OpenGL API. Its purpose is to be a base for a game engine and to test rendering techniques.
 
 ## TODO
 
