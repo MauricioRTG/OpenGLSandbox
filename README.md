@@ -39,4 +39,4 @@ https://github.com/MauricioRTG/VulkanSandbox.git
 
 ## OpenGL References
 
-Great credit goes to The Cherno [Vulkan Tutorial](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
+Great credit goes to The Cherno [OpenGL](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
